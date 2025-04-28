@@ -1,7 +1,4 @@
-Certainly! Here's an enhanced version of the Personal Portfolio Management CMS with more functionality for user authentication, tags for projects, and more comprehensive management of portfolio sections.
-
----
-
+#### **Routes**
 ### **1. GET /portfolio**
 
 **Description**: Fetch all portfolio projects.
@@ -314,11 +311,9 @@ Certainly! Here's an enhanced version of the Personal Portfolio Management CMS w
 
 ---
 
-These additional routes include features like:
+These routes include features like:
 
 - **User Authentication**: Register, login, and profile management.
 - **Project Interaction**: Liking and commenting on portfolio projects.
 - **Tags**: Adding and managing tags for categorizing portfolio projects.
 - **Notifications**: Keeping track of feedback and updates for the user.
-  
-These changes will make the portfolio CMS more interactive and provide a more robust management system. Would you like further adjustments or new features added?
